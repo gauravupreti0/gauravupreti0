@@ -4,8 +4,6 @@ Hi there I'm Gaurav 👋
 
 📫 How to reach me: gaurav.upreti0@icloud.com
 
-Since working as a software engineer:
+I am a Full-Stack Developer in IT industry, where I create high-quality web applications using the latest technologies. As a full-stack developer, I have expertise in Angular, Python, JavaScript and Node.js, and I can work with various databases, IDEs, and project management tools.
 
-I am Software Engineer with 4+ years of industrial experience in MEAN, MERN and Python stack.
-
-[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=upreti-gaurav)](https://github.com/anuraghazra/github-readme-stats)
+[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=upreti-gaurav)](https://github.com/anuraghazra&theme=transparent&show_icons=true/github-readme-stats)
