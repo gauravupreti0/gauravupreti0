@@ -7,3 +7,5 @@ Hi there I'm Gaurav 👋
 Since working as a software engineer:
 
 I am Software Engineer with 4+ years of industrial experience in MEAN, MERN and Python stack.
+
+[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=upreti-gaurav)](https://github.com/anuraghazra/github-readme-stats)
