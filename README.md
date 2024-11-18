@@ -20,8 +20,8 @@ Core Competencies:
 
 Committed to delivering high-quality, scalable solutions, I am eager to take on challenging projects that blend my technical expertise with my passion for problem-solving.
 
-<div align="center">
+
 ![Gaurav's GitHub stats](https://github-readme-stats.vercel.app/api?username=gauravupreti0&theme=transparent&show_icons=true&layout=compact) 
 ![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=gauravupreti0&theme=transparent&layout=compact)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gauravupreti0&layout=compact&theme=transparent)
-</div>
+
