@@ -22,5 +22,5 @@ Committed to delivering high-quality, scalable solutions, I am eager to take on 
 
 
 ![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=gauravupreti0&theme=transparent&layout=compact)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gauravupreti0&layout=compact&theme=transparent)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gauravupreti0&theme=transparent)
 
