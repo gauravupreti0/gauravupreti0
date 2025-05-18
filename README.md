@@ -1,24 +1,45 @@
-### Hi there I'm Gaurav — a Python & AI Engineer specialized in backend APIs, GenAI systems, and ML deployments.
+### 👋 Hi, I'm Gaurav — Python & AI Engineer | Backend APIs | GenAI | Cloud & ML Deployments
 
-📫 How to reach me: decodetrails@gmail.com
+📬 Reach me: [spoked_pacer_0d@icloud.com](mailto:spoked_pacer_0d@icloud.com)  
+🌐 Portfolio: [Coming Soon]  
+🔭 Currently open to freelance & remote projects (AI/ML, Backend, Cloud)
 
-I am a dedicated and results-driven Software Engineer with over 4 years of experience in developing scalable, efficient, and innovative solutions. Proficient in Python, JavaScript, and modern frameworks like Django, Flask, FastAPI, Next.js, React.js and Node.js , I specialize in creating high-performance backend systems and dynamic, user-centric frontend applications.
+---
 
-With a strong background in cloud computing technologies like AWS and a focus on DevOps practices such as CI/CD and containerization with Docker, I have successfully deployed and managed robust applications that meet diverse business needs. My expertise in AI/ML enables me to design data-driven solutions, unlocking valuable insights to drive business growth.
+I am a results-driven Software Engineer with **5+ years of experience** in building **scalable APIs**, **AI-powered solutions**, and **cloud-native systems**. My work blends robust backend development with advanced **AI/ML**, making businesses more intelligent, efficient, and data-driven.
 
-I excel in collaborating across multidisciplinary teams, balancing technical depth with strategic thinking, and delivering solutions aligned with organizational objectives. Passionate about continuous learning, I am pursuing advanced knowledge in Machine Learning and Data Science to stay ahead in the ever-evolving tech landscape.
+From designing **REST APIs** with Django/FastAPI to deploying **LLM-based tools** using Hugging Face, and managing scalable infrastructure on **AWS**, I create end-to-end systems optimized for performance and business value.
 
-### Core Competencies:
-- Backend Development: Flask, Fast API, Django 
-- Frontend Development: React.js, Next.js, Tailwind CSS
-- Cloud Technologies: AWS, Azure
-- AI/ML: TensorFlow, Scikit-Learn, Pandas
-- DevOps: Docker, CI/CD pipelines
-- Data Analysis & Visualization: Matplotlib, SQL
+---
 
-Committed to delivering high-quality, scalable solutions, I am eager to take on challenging projects that blend my technical expertise with my passion for problem-solving.
+### 🚀 Tech Stack & Specialties
 
+**💡 Core Skills**
+- **Backend**: Django, FastAPI, Flask, Node.js  
+- **Frontend**: React.js, Next.js, Tailwind CSS  
+- **AI/ML**: Hugging Face, TensorFlow, Scikit-Learn, Pandas  
+- **Cloud/DevOps**: AWS (EC2, Lambda, S3), Docker, CI/CD, GitHub Actions  
+- **Data Tools**: SQL, MongoDB, Matplotlib, Postgres
 
-![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=gauravupreti0&theme=transparent&layout=compact)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gauravupreti0&theme=transparent)
+---
 
+### 🔧 Current Focus Areas
+- Generative AI Projects (Chatbots, RAG, NLP)
+- Freelance API & SaaS Backend Engineering
+- Cloud Deployments with CI/CD & Monitoring
+- Real-world AI/ML integrations (resume screener, invoice automation)
+
+---
+
+### 📌 GitHub Stats
+
+<p align="center">
+  <img height="125" src="https://github-readme-stats.vercel.app/api?username=gauravupreti0&show_icons=true&theme=tokyonight&hide=prs&count_private=true" />
+  <img height="125" src="https://github-readme-streak-stats.herokuapp.com/?user=gauravupreti0&theme=tokyonight&layout=compact" />
+  <img height="125" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauravupreti0&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+### ✅ Let's Connect
+I'm passionate about **solving complex problems**, **collaborating with global teams**, and **building real-world AI applications**. Whether you're a startup, business, or fellow developer—feel free to connect!
